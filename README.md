@@ -1,0 +1,1 @@
+# Pr-ctica_de_Laboratorio_7-_Pipeline_ETL_Limpieza_Condicionada_y_Arquitectura_de_Data_Lake
